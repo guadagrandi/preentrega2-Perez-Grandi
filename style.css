@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: blue;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+h2{
+    color: aqua;
+    
+}
